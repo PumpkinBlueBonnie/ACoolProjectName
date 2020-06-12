@@ -1,0 +1,12 @@
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.csprojAssemblyReference.cache
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.exe.config
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.exe
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.pdb
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.exe
+C:\Users\Greg Hayes\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.pdb
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.csprojAssemblyReference.cache
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.exe
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\obj\Debug\HaleyLearning.pdb
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.exe.config
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.exe
+C:\Users\Haley\source\repos\HaleyLearning\HaleyLearning\bin\Debug\HaleyLearning.pdb
